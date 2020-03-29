@@ -1,4 +1,3 @@
-[toc]
 ## 1 Django环境搭建
 ### 安装Django
 - 安装方式
@@ -40,8 +39,6 @@ mysite/         #外层目录，名字可以更改
 
 #### 方法二：Pycharm创建项目
 - 打开Pycharm，选择菜单项【File】->【New Project】->【Django】->【Location】->【Existing interprter】 
-![d5d5001111b50a7e7930d5262cae30b7.png](en-resource://database/1895:1)
-
 
 ### 步骤2：修改工程
 #### 步骤2-1 创建一个具体的应用（功能模块）
